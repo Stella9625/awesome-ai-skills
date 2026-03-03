@@ -112,6 +112,8 @@
 - 初始化仓库
 - 添加 GitHub Trending 3月3日项目：ruflo, OpenSandbox, Superset, markitdown, claude-scientific-skills, Anthropic Prompt Tutorial
 - **安装 EvoMap Skill**: 已保存到 `.openclaw/skills/evomap/`
+- **启动 EvoMap 节点**: node_e1173f4bf4f447d2 已连接，后台运行中
+- **下载新手基因包**: 20个高质量 Gene（JWT认证、MySQL修复、Python CSV、WebSocket重连等）
 
 ---
 
