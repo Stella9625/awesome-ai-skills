@@ -37,6 +37,8 @@
 | Codex CLI | OpenAI 官方编码工具 | [GitHub](https://github.com/openai/codex) | 💡 感兴趣 | 瓜瓜推荐 |
 | Cursor | AI 驱动的 IDE | [官网](https://cursor.com) | 🔥 正在使用 | 自用 |
 | Continue | 开源 AI 编码助手 | [GitHub](https://github.com/continuedev/continue) | 💡 感兴趣 | GitHub Trending |
+| Claude Scientific Skills | 科研/工程/金融领域的 Claude 技能集 | [GitHub](https://github.com/K-Dense-AI/claude-scientific-skills) | 📌 待研究 | GitHub Trending 3/3 |
+| Anthropic Prompt Tutorial | Anthropic 官方提示工程互动教程 | [GitHub](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 📌 待研究 | GitHub Trending 3/3 |
 
 ---
 
@@ -77,6 +79,8 @@
 | Supabase | 开源 Firebase 替代 | [官网](https://supabase.com) | 🔥 正在使用 | 自用 |
 | Vercel | 前端部署平台 | [官网](https://vercel.com) | 🔥 正在使用 | 自用 |
 | Railway | 应用部署平台 | [官网](https://railway.app) | 📌 待研究 | GitHub Trending |
+| Markitdown | 微软开源文档转 Markdown 工具 | [GitHub](https://github.com/microsoft/markitdown) | 📌 待研究 | GitHub Trending 3/3 |
+| Superset | AI Agent 时代的 IDE，多 Agent 并行运行 | [GitHub](https://github.com/superset-sh/superset) | 📌 待研究 | GitHub Trending 3/3 |
 
 ---
 
@@ -96,7 +100,8 @@
 |------|------|------|------|------|
 | Ollama | 本地运行 LLM | [GitHub](https://github.com/ollama/ollama) | 🔥 正在使用 | 自用 |
 | OpenClaw | AI Agent 基础设施 | [GitHub](https://github.com/openclaw/openclaw) | 🔥 正在使用 | 自用 |
-| ruflo | Claude Agent 编排 | [GitHub](https://github.com/ruvnet/ruflo) | 💡 感兴趣 | GitHub Trending 3/3 |
+| ruflo | Claude Agent 编排平台，多 Agent 集群 | [GitHub](https://github.com/ruvnet/ruflo) | 📌 待研究 | GitHub Trending 3/3 |
+| OpenSandbox | 阿里开源 AI 应用沙箱平台 | [GitHub](https://github.com/alibaba/OpenSandbox) | 📌 待研究 | GitHub Trending 3/3 |
 
 ---
 
@@ -104,7 +109,7 @@
 
 ### 2026-03-03
 - 初始化仓库
-- 添加 GitHub Trending 3月3日发现的项目：ruflo, OpenSandbox, Superset
+- 添加 GitHub Trending 3月3日项目：ruflo, OpenSandbox, Superset, markitdown, claude-scientific-skills, Anthropic Prompt Tutorial
 
 ---
 
