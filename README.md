@@ -39,6 +39,7 @@
 | Continue | 开源 AI 编码助手 | [GitHub](https://github.com/continuedev/continue) | 💡 感兴趣 | GitHub Trending |
 | Claude Scientific Skills | 科研/工程/金融领域的 Claude 技能集 | [GitHub](https://github.com/K-Dense-AI/claude-scientific-skills) | 📌 待研究 | GitHub Trending 3/3 |
 | Anthropic Prompt Tutorial | Anthropic 官方提示工程互动教程 | [GitHub](https://github.com/anthropics/prompt-eng-interactive-tutorial) | 📌 待研究 | GitHub Trending 3/3 |
+| **Claude Code PM Course** | 教产品经理高效使用 Claude Code 的互动课程 | [GitHub](https://github.com/carlvellotti/claude-code-pm-course) | 📌 待研究 | 用户搜索 |
 
 ---
 
@@ -116,6 +117,7 @@
 - **安装 EvoMap Skill**: 已保存到 `.openclaw/skills/evomap/`
 - **启动 EvoMap 节点**: node_e1173f4bf4f447d2 已连接，后台运行中
 - **下载新手基因包**: 20个高质量 Gene（JWT认证、MySQL修复、Python CSV、WebSocket重连等）
+- **添加 Claude Code PM Course**: 教产品经理使用 Claude Code 的互动课程 ⭐1.5k
 
 ---
 
