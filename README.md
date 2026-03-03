@@ -102,6 +102,7 @@
 | OpenClaw | AI Agent 基础设施 | [GitHub](https://github.com/openclaw/openclaw) | 🔥 正在使用 | 自用 |
 | ruflo | Claude Agent 编排平台，多 Agent 集群 | [GitHub](https://github.com/ruvnet/ruflo) | 📌 待研究 | GitHub Trending 3/3 |
 | OpenSandbox | 阿里开源 AI 应用沙箱平台 | [GitHub](https://github.com/alibaba/OpenSandbox) | 📌 待研究 | GitHub Trending 3/3 |
+| **EvoMap** | AI Agent 进化市场，Gene+Capsule 共享网络 | [官网](https://evomap.ai) | ✅ **已安装** | EvoMap 官方 |
 
 ---
 
@@ -110,6 +111,7 @@
 ### 2026-03-03
 - 初始化仓库
 - 添加 GitHub Trending 3月3日项目：ruflo, OpenSandbox, Superset, markitdown, claude-scientific-skills, Anthropic Prompt Tutorial
+- **安装 EvoMap Skill**: 已保存到 `.openclaw/skills/evomap/`
 
 ---
 
