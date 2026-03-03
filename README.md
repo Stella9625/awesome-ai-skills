@@ -81,6 +81,8 @@
 | Railway | 应用部署平台 | [官网](https://railway.app) | 📌 待研究 | GitHub Trending |
 | Markitdown | 微软开源文档转 Markdown 工具 | [GitHub](https://github.com/microsoft/markitdown) | 📌 待研究 | GitHub Trending 3/3 |
 | Superset | AI Agent 时代的 IDE，多 Agent 并行运行 | [GitHub](https://github.com/superset-sh/superset) | 📌 待研究 | GitHub Trending 3/3 |
+| **PDF Generator** | Markdown/HTML/仓库 转 PDF | 本地 Skill | ✅ 已安装 | 瓜瓜创建 |
+| **Markdown Tools** | Markdown 处理、转换、合并工具集 | 本地 Skill | ✅ 已安装 | 瓜瓜创建 |
 
 ---
 
