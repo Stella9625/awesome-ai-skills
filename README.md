@@ -48,6 +48,10 @@
 | 名称 | 描述 | 链接 | 状态 | 来源 |
 |------|------|------|------|------|
 | Framer | AI 网站构建工具 | [官网](https://framer.com) | 🔥 正在使用 | 瓜瓜推荐 |
+| **Vibe Coding UI 技巧** | 4个方法打破"AI味"界面 | [笔记](./notes/vibe-coding-ui-tips.md) | ⭐ 强烈推荐 | 小红书@万有引力AI |
+
+### 📚 相关笔记
+- [4个方法提升 Vibe Coding UI 质量](./notes/vibe-coding-ui-tips.md) - 从原型、截图参考、情绪板到反模式规则
 | Paper.design | AI 设计协作画布 | [官网](https://paper.design) | 📌 待研究 | 瓜瓜推荐 |
 | v0.dev | Vercel AI 生成 UI | [官网](https://v0.dev) | 💡 感兴趣 | 推特 |
 
