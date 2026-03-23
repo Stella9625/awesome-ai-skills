@@ -88,6 +88,7 @@
 | Superset | AI Agent 时代的 IDE，多 Agent 并行运行 | [GitHub](https://github.com/superset-sh/superset) | 📌 待研究 | GitHub Trending 3/3 |
 | **PDF Generator** | Markdown/HTML/仓库 转 PDF | 本地 Skill | ✅ 已安装 | 瓜瓜创建 |
 | **Markdown Tools** | Markdown 处理、转换、合并工具集 | 本地 Skill | ✅ 已安装 | 瓜瓜创建 |
+| **GStack** | Garry Tan 的 Claude Code 技能工具包，含 /review /ship /qa 等 | [GitHub](https://github.com/garrytan/gstack) | ✅ 已安装 | GitHub Trending |
 
 ---
 
@@ -123,6 +124,10 @@
 - **下载新手基因包**: 20个高质量 Gene（JWT认证、MySQL修复、Python CSV、WebSocket重连等）
 - **添加 Claude Code PM Course**: 教产品经理使用 Claude Code 的互动课程 ⭐1.5k
 
+### 2026-03-23
+- **安装 GStack v0.11.5**: Garry Tan 的 Claude Code 技能工具包，含 /review /ship /qa /plan-ceo-review 等 28 个 slash commands
+- 注：/browse 功能因 Playwright Chromium 下载限制暂不可用
+
 ---
 
 ## 🎯 如何使用这个仓库
@@ -141,4 +146,4 @@
 
 ---
 
-*Last updated: 2026-03-03 by 坑坑* 🐱
+*Last updated: 2026-03-23 by 坑坑* 🐱
