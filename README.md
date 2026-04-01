@@ -54,6 +54,7 @@
 - [4个方法提升 Vibe Coding UI 质量](./notes/vibe-coding-ui-tips.md) - 从原型、截图参考、情绪板到反模式规则
 | Paper.design | AI 设计协作画布 | [官网](https://paper.design) | 📌 待研究 | 瓜瓜推荐 |
 | Remotion | 用 React 编程生成视频，支持 MP4/WebM/GIF 输出和云端渲染 | [官网](https://remotion.dev) · [GitHub](https://github.com/remotion-dev/remotion) | 📌 待研究 | 收藏 |
+| Frontend Slides | Claude Code Skill，用 AI 生成精美网页演示文稿，零依赖单 HTML 文件 | [GitHub](https://github.com/zarazhangrui/frontend-slides) | 📌 待研究 | 收藏 |
 | v0.dev | Vercel AI 生成 UI | [官网](https://v0.dev) | 💡 感兴趣 | 推特 |
 
 ---
@@ -118,6 +119,7 @@
 
 ### 2026-04-01
 - 添加 Remotion：用 React 编程生成视频的框架
+- 添加 Frontend Slides：Claude Code Skill，AI 生成网页演示文稿
 
 ### 2026-03-03
 - 初始化仓库
