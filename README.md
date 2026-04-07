@@ -26,6 +26,7 @@
 - [🛠️ Developer Tools](#-developer-tools)
 - [📱 Productivity](#-productivity)
 - [🧠 AI Infrastructure](#-ai-infrastructure)
+- [🔌 Claude Code Skills](#-claude-code-skills)
 
 ---
 
@@ -113,7 +114,65 @@
 
 ---
 
+## 🔌 Claude Code Skills
+
+> Claude Code 生态中按需安装的 skill，不常驻以节省 context token。
+
+### 需求管理
+
+| 名称 | 描述 | 安装命令 | 状态 |
+|------|------|---------|------|
+| create-dima-issue | 从需求草稿创建 Dima 工单 | `tnpm install -g @antskill/create-dima-issue` | 📌 待研究 |
+| yuque-to-dima-requirement | 从语雀文档挖掘需求并创建 Dima | `tnpm install -g @antskill/yuque-to-dima-requirement` | 📌 待研究 |
+| prd-taskmaster | PRD 生成 + 任务拆解 | `/install prd-taskmaster` | 📌 待研究 |
+| product-manager-toolkit | PM 工具箱（RICE、用户访谈等） | `/install product-manager-toolkit` | 📌 待研究 |
+
+### 设计研究
+
+| 名称 | 描述 | 安装命令 | 状态 |
+|------|------|---------|------|
+| ux-researcher-designer | UX 研究（画像、旅程图） | `/install ux-researcher-designer` | 📌 待研究 |
+
+### 文件处理
+
+| 名称 | 描述 | 安装命令 | 状态 |
+|------|------|---------|------|
+| pptx | PPT 创建/编辑 | `/install pptx` | 📌 待研究 |
+| pdf | PDF 读取/合并/拆分 | `/install pdf` | 📌 待研究 |
+| docx | Word 文档处理 | `/install docx` | 📌 待研究 |
+| xlsx | Excel 表格处理 | `/install xlsx` | 📌 待研究 |
+
+### 开发工具
+
+| 名称 | 描述 | 安装命令 | 状态 |
+|------|------|---------|------|
+| code-reviewer | 代码审查 | `/install code-reviewer` | 📌 待研究 |
+| senior-frontend | 前端工程师 | `/install senior-frontend` | 💡 感兴趣 |
+| senior-qa | 测试工程师 | `/install senior-qa` | 💡 感兴趣 |
+| senior-devops | DevOps 工程师 | `/install senior-devops` | 💡 感兴趣 |
+| senior-architect | 架构师 | `/install senior-architect` | 💡 感兴趣 |
+| mcp-builder | MCP Server 构建器 | `/install mcp-builder` | 💡 感兴趣 |
+| tech-stack-evaluator | 技术栈评估 | `/install tech-stack-evaluator` | 💡 感兴趣 |
+| web-artifacts-builder | Web 产物构建 | `/install web-artifacts-builder` | 💡 感兴趣 |
+| webapp-testing | Web 应用测试 | `/install webapp-testing` | 💡 感兴趣 |
+
+### 创意 & 其他
+
+| 名称 | 描述 | 安装命令 | 状态 |
+|------|------|---------|------|
+| skill-creator | 创建新 skill | `/install skill-creator` | 📌 待研究 |
+| algorithmic-art | 算法艺术生成 | `/install algorithmic-art` | 💡 感兴趣 |
+| canvas-design | 画布设计 | `/install canvas-design` | 💡 感兴趣 |
+| frontend-design | 前端设计 | `/install frontend-design` | 💡 感兴趣 |
+| brand-guidelines | 品牌规范 | `/install brand-guidelines` | 💡 感兴趣 |
+
+---
+
 ## 📝 更新日志
+
+### 2026-04-07
+- 从 CLAUDE.md 迁移按需安装 Skills 列表到本仓库，新增 "Claude Code Skills" 分类
+- 包含需求管理、设计研究、文件处理、开发工具、创意等 5 个子分类，共 20+ skill
 
 ### 2026-03-03
 - 初始化仓库
@@ -141,4 +200,4 @@
 
 ---
 
-*Last updated: 2026-03-03 by 坑坑* 🐱
+*Last updated: 2026-04-07 by 坑坑* 🐱
